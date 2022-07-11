@@ -26,4 +26,4 @@ const config = {
   plugins: [require("@tailwindcss/aspect-ratio")],
 }
 
-module.exports = config
+export default config
